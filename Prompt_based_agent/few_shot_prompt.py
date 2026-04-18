@@ -1,4 +1,4 @@
-from basic_prompt import PromptTemplate, llm, test_input
+from Prompt_based_agent.basic_prompt import PromptTemplate, llm, test_input
 
 few_shot_template = PromptTemplate(
     input_variables=[
